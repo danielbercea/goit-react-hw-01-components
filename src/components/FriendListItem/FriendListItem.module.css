@@ -26,7 +26,7 @@
 }
 
 .statusOffline {
-  /* composes: statusOnline; */
+  composes: statusOnline;
   background-color: red;
 }
 
